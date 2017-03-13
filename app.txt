@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hai this is sudheer kumar 
 welcome sudheer kumar
+=======
+hai s is this is sudheer kumar 
+ sudheer kumar
+>>>>>>> 659683a33f022a95713f966bc080f40cd71b126e
