@@ -1,3 +1,8 @@
 
 Hi this is sudheer kumar
+<<<<<<< HEAD
 Welcome 2 git.
+=======
+Welcome 2 git....
+helloooo
+>>>>>>> d02ab76d50637236b19d1a0abcb636cda218a3a5
